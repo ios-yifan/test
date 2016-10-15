@@ -26,6 +26,8 @@
     
     
     NSLog(@"yifan - 01");
+    NSLog(@"yifan - 022");
+
     return YES;
 }
 
