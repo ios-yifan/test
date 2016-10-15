@@ -20,6 +20,8 @@
     
     
     NSLog(@"分支操作");
+    
+    NSLog(@"dierci");
     return YES;
 }
 
