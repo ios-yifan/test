@@ -25,6 +25,8 @@
     
     NSLog(@"这只是测试一下");
     
+    NSLog(@"asdasd");
+    
     
 }
 
