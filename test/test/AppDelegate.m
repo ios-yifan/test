@@ -27,6 +27,8 @@
     
     NSLog(@"yifan - 01");
     NSLog(@"yifan - 022");
+    
+    NSLog(@"张一帆 2016年10月17日19:04:12");
 
     return YES;
 }
